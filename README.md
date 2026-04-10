@@ -1,4 +1,5 @@
-# coastline-paradox-3d
+# 3D Version of the Coastline Paradox
+
 
 > *Does a hilly city have more surface area than a flat one?*
 
